@@ -37,7 +37,7 @@ ul {
 
 li {
     flex-direction: row;
-    width: 200px;
+    width: 275px;
 }
 
 a {
@@ -92,7 +92,7 @@ body {
 }
 
 .link > img {
-    width: 100px;
+    width: 175px;
 }
 
 .link h2 {
