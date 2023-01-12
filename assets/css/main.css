@@ -79,13 +79,13 @@ body {
 }
 
 #logo {
-    width: 225px;
-    height: 225px;
+    width: 200px;
+    height: 200px;
     border-radius: 10px;
 }
 
 .join {
-    margin: 100px 15% 25vh;
+    margin: 100px 15% 20vh;
     padding: 15px;
     background-color: rgba(255, 0, 0, 0.23);
     border-radius: 10px;
