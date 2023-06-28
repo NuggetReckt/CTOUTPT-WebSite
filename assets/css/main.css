@@ -41,7 +41,7 @@ li {
 }
 
 a {
-    text-decoration: none;
+    color: white;
 }
 
 body {
@@ -59,10 +59,6 @@ body {
     height: 100%;
     width: 100%;
     color: black;
-}
-
-.bold {
-    text-decoration: underline;
 }
 
 .main-content {
@@ -89,6 +85,10 @@ body {
     padding: 15px;
     background-color: rgba(255, 0, 0, 0.23);
     border-radius: 10px;
+}
+
+.link {
+    text-decoration: none;
 }
 
 .link > img {
