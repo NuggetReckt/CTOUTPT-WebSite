@@ -37,11 +37,11 @@ ul {
 
 li {
     flex-direction: row;
-    width: 200px;
+    width: 275px;
 }
 
 a {
-    text-decoration: none;
+    color: white;
 }
 
 body {
@@ -61,10 +61,6 @@ body {
     color: black;
 }
 
-.bold {
-    text-decoration: underline;
-}
-
 .main-content {
     align-items: center;
     text-align: center;
@@ -79,20 +75,24 @@ body {
 }
 
 #logo {
-    width: 225px;
-    height: 225px;
+    width: 200px;
+    height: 200px;
     border-radius: 10px;
 }
 
 .join {
-    margin: 100px 15% 25vh;
+    margin: 100px 15% 20vh;
     padding: 15px;
     background-color: rgba(255, 0, 0, 0.23);
     border-radius: 10px;
 }
 
+.link {
+    text-decoration: none;
+}
+
 .link > img {
-    width: 100px;
+    width: 175px;
 }
 
 .link h2 {
